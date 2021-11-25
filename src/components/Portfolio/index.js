@@ -35,6 +35,12 @@ function Portfolio() {
       link: "https://sheralyns-note-taker.herokuapp.com/",
       repo: "https://github.com/sgfiles/Note-Taker"
     },
+    {
+      name: 'work_day_scheduler',
+      description: 'HTML/JavaScript/CSS',
+      link: "https://sgfiles.github.io/Work-Day-Scheduler/",
+      repo: "https://github.com/sgfiles/Work-Day-Scheduler"
+    },
   ]);
 
   return (

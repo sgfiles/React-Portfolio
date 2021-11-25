@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccd255e5.chunk.css",
+    "main.js": "/static/js/main.47c662d9.chunk.js",
+    "main.js.map": "/static/js/main.47c662d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.102548e6.chunk.js": "/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.668371c584c7cd522a4672459989e75b.js": "/precache-manifest.668371c584c7cd522a4672459989e75b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ccd255e5.chunk.css.map": "/static/css/main.ccd255e5.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.jpg": "/static/media/Budget-Tracker.90948b6e.jpg",
+    "static/media/Code Quiz.jpg": "/static/media/Code Quiz.25029d49.jpg",
+    "static/media/Easy_Stack.jpg": "/static/media/Easy_Stack.4bc88694.jpg",
+    "static/media/Note-Taker.jpg": "/static/media/Note-Taker.3f95334c.jpg",
+    "static/media/Unearthly Venues.jpg": "/static/media/Unearthly Venues.4ccb76e5.jpg",
+    "static/media/cover-image.jpg": "/static/media/cover-image.c0f157ab.jpg",
+    "static/media/work_day_scheduler.jpg": "/static/media/work_day_scheduler.6e87436e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.ccd255e5.chunk.css",
+    "static/js/main.47c662d9.chunk.js"
+  ]
+}

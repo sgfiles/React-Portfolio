@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
 
-function Contact() {
+function Contact () {
   const [formState, setFormState] = useState({
     name: '',
     email: '',
@@ -43,6 +43,9 @@ function Contact() {
   return (
     <section>
       <form id="contact-form" onSubmit={handleSubmit}>
+        <div>
+          <label htmlFor="contact">Send questions/comments to gired0329@yahoo.com</label>
+        </div>
         <div>
           <label htmlFor="name">Name:</label>
           <input
