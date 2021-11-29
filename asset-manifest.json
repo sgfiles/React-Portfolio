@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.ccd255e5.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.b5b58952.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b5b58952.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.102548e6.chunk.js": "/React-Portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/React-Portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.a9b88c0d353648df8971a5f115cef653.js": "/React-Portfolio/precache-manifest.a9b88c0d353648df8971a5f115cef653.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.ccd255e5.chunk.css.map": "/React-Portfolio/static/css/main.ccd255e5.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.jpg": "/React-Portfolio/static/media/Budget-Tracker.90948b6e.jpg",
+    "static/media/Code Quiz.jpg": "/React-Portfolio/static/media/Code Quiz.25029d49.jpg",
+    "static/media/Easy_Stack.jpg": "/React-Portfolio/static/media/Easy_Stack.4bc88694.jpg",
+    "static/media/Note-Taker.jpg": "/React-Portfolio/static/media/Note-Taker.3f95334c.jpg",
+    "static/media/Unearthly Venues.jpg": "/React-Portfolio/static/media/Unearthly Venues.4ccb76e5.jpg",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.c0f157ab.jpg",
+    "static/media/work_day_scheduler.jpg": "/React-Portfolio/static/media/work_day_scheduler.6e87436e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.ccd255e5.chunk.css",
+    "static/js/main.b5b58952.chunk.js"
+  ]
+}
